@@ -8,6 +8,8 @@ per = (tot*100)/500
 print("You got = ", per,"%")
 if per < 33:
     print("You are fail")
+    print("\U0001F600")
+
 elif per >=33 and per <45:
     print("Third Division Passed")
 elif per >=45 and per <60:

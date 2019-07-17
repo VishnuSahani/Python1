@@ -1,0 +1,5 @@
+birth = input( 'Birth year')
+age = 2019 - int(birth)
+print(age)
+a=eval(input('enter the ques'))
+print(a)
